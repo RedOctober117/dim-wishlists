@@ -1,0 +1,4 @@
+title:Telemakos's List of God Rolls
+description:A collection of my personal god rolls 
+
+dimwishlist:item=1875512595&perks=1482024992,3142289711,1409206216,2562668800,2565067140#notes:pve only
